@@ -1,8 +1,8 @@
 
 # wordpress-project
-
-A website that sells sports products, nutritional supplements and sports equipment
-The site was created by WordPress
+site to an online authority in the fitness industry 
+with a reputation for publishing only the highest quality information 
+and making it available for free to readers..
 
 
 [Untitled.pdf](https://github.com/omaralomarii/wordpress-project/files/9508357/Untitled.pdf)
