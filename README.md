@@ -3,6 +3,7 @@
 site to an online authority in the fitness industry 
 with a reputation for publishing only the highest quality information 
 and making it available for free to readers..
+Created with WordPress
 
 
 [Untitled.pdf](https://github.com/omaralomarii/wordpress-project/files/9508357/Untitled.pdf)
